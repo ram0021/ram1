@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-20T18:23:03Z" name="ReportSuite" finished-at="2018-10-20T18:23:04Z" duration-ms="157">
+    <groups>
+    </groups>
+    <test started-at="2018-10-20T18:23:03Z" name="Test" finished-at="2018-10-20T18:23:04Z" duration-ms="157">
+      <class name="testngp.Repoter">
+        <test-method signature="m1()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:03Z" name="m1" finished-at="2018-10-20T18:23:03Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m2()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:03Z" name="m2" finished-at="2018-10-20T18:23:03Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method signature="m3()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:03Z" name="m3" finished-at="2018-10-20T18:23:03Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="m4()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:03Z" name="m4" finished-at="2018-10-20T18:23:04Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method signature="m5()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:04Z" name="m5" finished-at="2018-10-20T18:23:04Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method signature="m6()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:04Z" name="m6" finished-at="2018-10-20T18:23:04Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+        <test-method signature="m7()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:04Z" name="m7" finished-at="2018-10-20T18:23:04Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method signature="m8()[pri:0, instance:testngp.Repoter@55b0dcab]" started-at="2018-10-20T18:23:04Z" name="m8" finished-at="2018-10-20T18:23:04Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+      </class> <!-- testngp.Repoter -->
+    </test> <!-- Test -->
+  </suite> <!-- ReportSuite -->
+</testng-results>
